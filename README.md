@@ -1,6 +1,6 @@
 # USPTO Harmonisation Code (de Rassenfosse et. al.)
 
-This code was written in Python 2 2015-2016 and ported to Python 3 in 2020.
+This code was written in Python 2 in 2015-2016 and ported to Python 3 in 2020.
 
 The order of run is:
  * load_uspto_2020.py
